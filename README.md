@@ -1,15 +1,10 @@
-testDeck
-========
+Developing Data Products Course Project
+=======================================
 
-This is a test deck for publishing a slidify document.
+This is the course project for the *Coursera - Developing Data Products* course.
 
-Fork this repo.
+The ShinyApp can be found at: [https://frederic.shinyapps.io/shinyapp/](https://frederic.shinyapps.io/shinyapp/).
 
-Make an edit to this readme file on gh-pages branch. (You can do this directly on the github site by clicking on the readme file and then clicking edit)
+The Slidify presentation can be found at: [http://username.github.io/testDeck/index.html](http://username.github.io/testDeck/index.html) .
 
-Commit the change.
-
-Go to username.github.io/testDeck/index.html
-And the presentation should be rendered
-
-
+Thank you!
